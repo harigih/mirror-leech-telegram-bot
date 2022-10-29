@@ -5,9 +5,9 @@
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/MaxxRider/Leech-Pro",
-  "success_url": "https://t.me/MaxxBotChat",
-  "website": "https://github.com/MaxxRider/Leech-Pro",
+  "repository": "https://github.com/harigih/mirror-leech-telegram-bot",
+  "success_url": "https://github.com/harigih/mirror-leech-telegram-bot",
+  "website": "https://github.com/harigih/mirror-leech-telegram-bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
